@@ -1,35 +1,46 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
-   int maxCandies(vector<int>& s, vector<int>& c, vector<vector<int>>& k,
-                   vector<vector<int>>& b, vector<int>& iB) {
+    int maxCandies(vector<int>& status, vector<int>& candies, vector<vector<int>>& keys,
+                   vector<vector<int>>& containedBoxes, vector<int>& initialBoxes) {
         
-        int n = s.size(), ans = 0;
-        vector<bool> hK(n, false), hB(n, false), o(n, false);
+        int n = status.size();
+        vector<bool> hasKey(n, false), hasBox(n, false), opened(n, false);
         queue<int> q;
         
-        for (int x : iB) {
-            hB[x] = true;
-            if (s[x]) q.push(x);
+        for (int box : initialBoxes) {
+            hasBox[box] = true;
+            if (status[box]) q.push(box);
         }
+        
+        int totalCandies = 0;
         
         while (!q.empty()) {
-            int x = q.front();
+            int box = q.front();
             q.pop();
-            if (o[x]) continue;
-            o[x] = true;
-            ans += c[x];
             
-            for (int y : k[x]) {
-                hK[y] = true;
-                if (hB[y] && !o[y]) q.push(y);
+            if (opened[box]) continue;
+            opened[box] = true;
+            
+            totalCandies += candies[box];
+            
+            for (int k : keys[box]) {
+                hasKey[k] = true;
+                if (hasBox[k] && !opened[k]) {
+                    q.push(k);
+                }
             }
             
-            for (int y : b[x]) {
-                hB[y] = true;
-                if (s[y] || hK[y]) q.push(y);
+            for (int b : containedBoxes[box]) {
+                hasBox[b] = true;
+                if (status[b] || hasKey[b]) {
+                    q.push(b);
+                }
             }
         }
         
-        return ans;
+        return totalCandies;
     }
 };
