@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AjaySh1/DSA/tree/master/0099-recover-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AjaySh1/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AjaySh1/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AjaySh1/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
