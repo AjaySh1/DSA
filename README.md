@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0812-rotate-string](https://github.com/AjaySh1/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySh1/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySh1/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AjaySh1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AjaySh1/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
