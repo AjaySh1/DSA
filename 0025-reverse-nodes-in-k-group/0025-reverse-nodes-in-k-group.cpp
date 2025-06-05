@@ -27,11 +27,10 @@ public:
         ListNode*temp=nullptr;
         ListNode*hd=head;
         bool flag=true;
-        cout<<p->val<<endl;
+      
         while(limit>0)
         {
 
-            cout<<limit<<endl;
              ListNode*ptr=p;
              ListNode*prev=nullptr,*cur2=p,*nxt=nullptr;
              int count=1;
@@ -63,7 +62,7 @@ public:
         {
             temp->next=p;
         }
-        cout<<hd->val<<endl;
+       
         return hd;
     }
 };
