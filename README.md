@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/AjaySh1/DSA/tree/master/0234-palindrome-linked-list) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AjaySh1/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/AjaySh1/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AjaySh1/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AjaySh1/DSA/tree/master/0328-odd-even-linked-list) |
@@ -98,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AjaySh1/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
