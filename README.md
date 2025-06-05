@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AjaySh1/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/AjaySh1/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AjaySh1/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AjaySh1/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/AjaySh1/DSA/tree/master/0234-palindrome-linked-list) |
 ## Union Find
 |  |
