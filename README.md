@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AjaySh1/DSA/tree/master/0099-recover-binary-search-tree) |
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AjaySh1/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AjaySh1/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AjaySh1/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AjaySh1/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-exam-room](https://github.com/AjaySh1/DSA/tree/master/0885-exam-room) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AjaySh1/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Ordered Set
 |  |
 | ------- |
@@ -154,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
+## Matrix
+|  |
+| ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AjaySh1/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
