@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxSubstrings(string word) {
-        map<char,set<int>>mp;
+        unordered_map<char,set<int>>mp;
         int n=word.size();
         int i=n-1;
         while(i>=0)
