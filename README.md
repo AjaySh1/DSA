@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AjaySh1/DSA/tree/master/0099-recover-binary-search-tree) |
+| [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
 ## Binary Tree
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0879-maximize-distance-to-closest-person](https://github.com/AjaySh1/DSA/tree/master/0879-maximize-distance-to-closest-person) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
+| [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AjaySh1/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Breadth-First Search
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/AjaySh1/DSA/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AjaySh1/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySh1/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySh1/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AjaySh1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/AjaySh1/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
+| [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0885-exam-room](https://github.com/AjaySh1/DSA/tree/master/0885-exam-room) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
+| [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
 ## Ordered Set
 |  |
 | ------- |
@@ -145,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
