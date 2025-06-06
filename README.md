@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AjaySh1/DSA/tree/master/0099-recover-binary-search-tree) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AjaySh1/DSA/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AjaySh1/DSA/tree/master/0099-recover-binary-search-tree) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AjaySh1/DSA/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/AjaySh1/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AjaySh1/DSA/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Greedy
 |  |
 | ------- |
