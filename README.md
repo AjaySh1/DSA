@@ -115,4 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0885-exam-room](https://github.com/AjaySh1/DSA/tree/master/0885-exam-room) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0885-exam-room](https://github.com/AjaySh1/DSA/tree/master/0885-exam-room) |
+## Ordered Set
+|  |
+| ------- |
+| [0885-exam-room](https://github.com/AjaySh1/DSA/tree/master/0885-exam-room) |
 <!---LeetCode Topics End-->
