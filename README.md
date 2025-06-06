@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0879-maximize-distance-to-closest-person](https://github.com/AjaySh1/DSA/tree/master/0879-maximize-distance-to-closest-person) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AjaySh1/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Breadth-First Search
 |  |
