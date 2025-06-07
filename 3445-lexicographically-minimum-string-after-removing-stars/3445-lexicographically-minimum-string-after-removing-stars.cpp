@@ -3,7 +3,7 @@ public:
 
     string clearStars(string s) {
         int n=s.size();
-        map<char,priority_queue<int>>mp;
+        unordered_map<char,priority_queue<int>>mp;
       
         for(int i=0;i<n;i++)
         {
