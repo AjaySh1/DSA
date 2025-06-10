@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AjaySh1/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AjaySh1/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AjaySh1/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AjaySh1/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/AjaySh1/DSA/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Stack
 |  |
@@ -84,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AjaySh1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AjaySh1/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AjaySh1/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AjaySh1/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/AjaySh1/DSA/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Counting
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AjaySh1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AjaySh1/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
