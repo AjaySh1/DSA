@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AjaySh1/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AjaySh1/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AjaySh1/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/AjaySh1/DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/AjaySh1/DSA/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Stack
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AjaySh1/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/AjaySh1/DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Divide and Conquer
 |  |
 | ------- |
