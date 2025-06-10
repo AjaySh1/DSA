@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0879-maximize-distance-to-closest-person](https://github.com/AjaySh1/DSA/tree/master/0879-maximize-distance-to-closest-person) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2032-largest-odd-number-in-string](https://github.com/AjaySh1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AjaySh1/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AjaySh1/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AjaySh1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AjaySh1/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AjaySh1/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Linked List
 |  |
 | ------- |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AjaySh1/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -148,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0885-exam-room](https://github.com/AjaySh1/DSA/tree/master/0885-exam-room) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
