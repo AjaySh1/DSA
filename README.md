@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0686-repeated-string-match](https://github.com/AjaySh1/DSA/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/AjaySh1/DSA/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AjaySh1/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySh1/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/AjaySh1/DSA/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/AjaySh1/DSA/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/AjaySh1/DSA/tree/master/1508-longest-happy-prefix) |
 ## Hash Table
