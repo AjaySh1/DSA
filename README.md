@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/AjaySh1/DSA/tree/master/0214-shortest-palindrome) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0686-repeated-string-match](https://github.com/AjaySh1/DSA/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/AjaySh1/DSA/tree/master/0812-rotate-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/AjaySh1/DSA/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/AjaySh1/DSA/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/AjaySh1/DSA/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/AjaySh1/DSA/tree/master/1508-longest-happy-prefix) |
@@ -206,9 +208,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/AjaySh1/DSA/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/AjaySh1/DSA/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/AjaySh1/DSA/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/AjaySh1/DSA/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
