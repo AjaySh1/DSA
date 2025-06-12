@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AjaySh1/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySh1/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
+| [1508-longest-happy-prefix](https://github.com/AjaySh1/DSA/tree/master/1508-longest-happy-prefix) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySh1/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AjaySh1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/AjaySh1/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/AjaySh1/DSA/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/AjaySh1/DSA/tree/master/1508-longest-happy-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AjaySh1/DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/AjaySh1/DSA/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/AjaySh1/DSA/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
