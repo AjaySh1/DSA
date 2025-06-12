@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AjaySh1/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AjaySh1/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AjaySh1/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Breadth-First Search
 |  |
 | ------- |
