@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AjaySh1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0068-text-justification](https://github.com/AjaySh1/DSA/tree/master/0068-text-justification) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0879-maximize-distance-to-closest-person](https://github.com/AjaySh1/DSA/tree/master/0879-maximize-distance-to-closest-person) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/AjaySh1/DSA/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/AjaySh1/DSA/tree/master/0214-shortest-palindrome) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0686-repeated-string-match](https://github.com/AjaySh1/DSA/tree/master/0686-repeated-string-match) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AjaySh1/DSA/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/AjaySh1/DSA/tree/master/1508-longest-happy-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/AjaySh1/DSA/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
