@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AjaySh1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0068-text-justification](https://github.com/AjaySh1/DSA/tree/master/0068-text-justification) |
+| [0149-max-points-on-a-line](https://github.com/AjaySh1/DSA/tree/master/0149-max-points-on-a-line) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0879-maximize-distance-to-closest-person](https://github.com/AjaySh1/DSA/tree/master/0879-maximize-distance-to-closest-person) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/AjaySh1/DSA/tree/master/0149-max-points-on-a-line) |
 | [2032-largest-odd-number-in-string](https://github.com/AjaySh1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AjaySh1/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AjaySh1/DSA/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/AjaySh1/DSA/tree/master/0149-max-points-on-a-line) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AjaySh1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/AjaySh1/DSA/tree/master/0068-text-justification) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/AjaySh1/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
