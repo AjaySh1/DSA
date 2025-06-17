@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/AjaySh1/DSA/tree/master/0149-max-points-on-a-line) |
+| [0464-can-i-win](https://github.com/AjaySh1/DSA/tree/master/0464-can-i-win) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AjaySh1/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/AjaySh1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AjaySh1/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/AjaySh1/DSA/tree/master/0464-can-i-win) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/AjaySh1/DSA/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Prefix Sum
 |  |
@@ -265,4 +267,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AjaySh1/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/AjaySh1/DSA/tree/master/0464-can-i-win) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/AjaySh1/DSA/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/AjaySh1/DSA/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/AjaySh1/DSA/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
