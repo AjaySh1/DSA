@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/AjaySh1/DSA/tree/master/0149-max-points-on-a-line) |
 | [0218-the-skyline-problem](https://github.com/AjaySh1/DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/AjaySh1/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0526-beautiful-arrangement](https://github.com/AjaySh1/DSA/tree/master/0526-beautiful-arrangement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0879-maximize-distance-to-closest-person](https://github.com/AjaySh1/DSA/tree/master/0879-maximize-distance-to-closest-person) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/AjaySh1/DSA/tree/master/0464-can-i-win) |
+| [0526-beautiful-arrangement](https://github.com/AjaySh1/DSA/tree/master/0526-beautiful-arrangement) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/AjaySh1/DSA/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Prefix Sum
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/AjaySh1/DSA/tree/master/0464-can-i-win) |
+| [0526-beautiful-arrangement](https://github.com/AjaySh1/DSA/tree/master/0526-beautiful-arrangement) |
 ## Memoization
 |  |
 | ------- |
@@ -283,4 +286,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/AjaySh1/DSA/tree/master/0464-can-i-win) |
+| [0526-beautiful-arrangement](https://github.com/AjaySh1/DSA/tree/master/0526-beautiful-arrangement) |
+## Backtracking
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/AjaySh1/DSA/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
