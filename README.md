@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/AjaySh1/DSA/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/AjaySh1/DSA/tree/master/0526-beautiful-arrangement) |
+| [0552-student-attendance-record-ii](https://github.com/AjaySh1/DSA/tree/master/0552-student-attendance-record-ii) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/AjaySh1/DSA/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Prefix Sum
 |  |
