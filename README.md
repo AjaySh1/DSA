@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AjaySh1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/AjaySh1/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0327-count-of-range-sum](https://github.com/AjaySh1/DSA/tree/master/0327-count-of-range-sum) |
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AjaySh1/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AjaySh1/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/AjaySh1/DSA/tree/master/0149-max-points-on-a-line) |
 | [0218-the-skyline-problem](https://github.com/AjaySh1/DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/AjaySh1/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/AjaySh1/DSA/tree/master/0327-count-of-range-sum) |
 | [0526-beautiful-arrangement](https://github.com/AjaySh1/DSA/tree/master/0526-beautiful-arrangement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0879-maximize-distance-to-closest-person](https://github.com/AjaySh1/DSA/tree/master/0879-maximize-distance-to-closest-person) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AjaySh1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
 | [0218-the-skyline-problem](https://github.com/AjaySh1/DSA/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/AjaySh1/DSA/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AjaySh1/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
 ## Sliding Window
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AjaySh1/DSA/tree/master/0148-sort-list) |
+| [0327-count-of-range-sum](https://github.com/AjaySh1/DSA/tree/master/0327-count-of-range-sum) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
 ## Design
 |  |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AjaySh1/DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/AjaySh1/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/AjaySh1/DSA/tree/master/0327-count-of-range-sum) |
 | [0885-exam-room](https://github.com/AjaySh1/DSA/tree/master/0885-exam-room) |
 ## Bucket Sort
 |  |
@@ -261,10 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AjaySh1/DSA/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/AjaySh1/DSA/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AjaySh1/DSA/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/AjaySh1/DSA/tree/master/0327-count-of-range-sum) |
 ## Line Sweep
 |  |
 | ------- |
