@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AjaySh1/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AjaySh1/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1783-ways-to-make-a-fair-array](https://github.com/AjaySh1/DSA/tree/master/1783-ways-to-make-a-fair-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AjaySh1/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AjaySh1/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AjaySh1/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1783-ways-to-make-a-fair-array](https://github.com/AjaySh1/DSA/tree/master/1783-ways-to-make-a-fair-array) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AjaySh1/DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Rolling Hash
 |  |
