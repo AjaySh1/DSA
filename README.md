@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/AjaySh1/DSA/tree/master/0327-count-of-range-sum) |
 | [0526-beautiful-arrangement](https://github.com/AjaySh1/DSA/tree/master/0526-beautiful-arrangement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AjaySh1/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0879-maximize-distance-to-closest-person](https://github.com/AjaySh1/DSA/tree/master/0879-maximize-distance-to-closest-person) |
 | [0948-sort-an-array](https://github.com/AjaySh1/DSA/tree/master/0948-sort-an-array) |
 | [1397-search-suggestions-system](https://github.com/AjaySh1/DSA/tree/master/1397-search-suggestions-system) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AjaySh1/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AjaySh1/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AjaySh1/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/AjaySh1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AjaySh1/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/AjaySh1/DSA/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/AjaySh1/DSA/tree/master/0526-beautiful-arrangement) |
 | [0552-student-attendance-record-ii](https://github.com/AjaySh1/DSA/tree/master/0552-student-attendance-record-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AjaySh1/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/AjaySh1/DSA/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Prefix Sum
 |  |
