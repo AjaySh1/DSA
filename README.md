@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AjaySh1/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AjaySh1/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AjaySh1/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AjaySh1/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AjaySh1/DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/AjaySh1/DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/AjaySh1/DSA/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/AjaySh1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AjaySh1/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AjaySh1/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AjaySh1/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/AjaySh1/DSA/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Greedy
 |  |
@@ -127,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AjaySh1/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AjaySh1/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AjaySh1/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AjaySh1/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/AjaySh1/DSA/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Counting
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AjaySh1/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AjaySh1/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AjaySh1/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
 |  |
 | ------- |
